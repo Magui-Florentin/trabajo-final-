@@ -1,2 +1,3 @@
 # trabajo-final-
-trabajo final provisorio
+trabajo final provisorio. Falta terminar, darle los formatos y agregarle mas secciones. Pero sin compu y habiendo perdido todos los archivos, es lo mejor que pude hacer en un dia... 
+
